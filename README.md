@@ -1,0 +1,3 @@
+# Then and Now: Static Site Generators
+
+Static site generators (SSGs) were first introduced over 10 years ago as an alternative way to publish blogs and websites free from the complexity of hosting, maintaining, and securing content management systems. Joe & Kevin will give a brief history of SSGs, examine the pros/cons of traditional SSGs, and showcase some of the most exciting features of next-generation SSGs, including SSGs that generate single-page Javascript applications, and SSGs capable of creating static websites from a variety data sources (including content management systems like Drupal and Wordpress). Christopher will show how an SSG built with React can sit in front of a headless CMS, and talk about developer ergonomics and deployment strategies.
