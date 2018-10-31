@@ -1,0 +1,17 @@
+{
+  "name": "a-modern-front-end-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "reveal-md": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "reveal": "reveal-md slides.md --highlight-theme github -w",
+    "build": "reveal-md slides.md --static _site"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

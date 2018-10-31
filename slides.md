@@ -37,9 +37,9 @@ ____
 
 ---
 
-## Live Demo
-
-:100:
+## Live Demo: GatsbyJS
 
 ---
+
+
 
